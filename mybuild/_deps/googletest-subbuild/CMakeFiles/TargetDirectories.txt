@@ -1,0 +1,3 @@
+/home/sasha/Desktop/GTestsMatrix/matrixhw/mybuild/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/home/sasha/Desktop/GTestsMatrix/matrixhw/mybuild/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/home/sasha/Desktop/GTestsMatrix/matrixhw/mybuild/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

@@ -8,3 +8,4 @@ TEST(ExampleTest, DmitriiLeonidovich){
     const char * dml_c = "DmitriiLeonidovich";
     ASSERT_STREQ(dml.c_str(), dml_c);
 }
+
