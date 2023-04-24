@@ -11,7 +11,7 @@ FetchContent_MakeAvailable(googletest)
 
 set(CMAKE_CXX_STANDARD 17)
 set(TEST_NAME ${PROJECT_NAME}_tests)
-add_executable(${TEST_NAME} matrixhw.cpp mybuild/matrix.h)
+add_executable(${TEST_NAME} matrixhw.cpp matrix.h)
 target_link_libraries(${TEST_NAME} gtest_main)
 
 enable_testing()
