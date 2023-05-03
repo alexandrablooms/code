@@ -1,10 +1,6 @@
-//
-// Created by sasha on 24.04.23.
-//
+#pragma once
+#include <iostream>
+#include <vector>
+#include <sstream>
 
-#ifndef EXAMPLE_MATRIX_H
-#define EXAMPLE_MATRIX_H
-
-#endif //EXAMPLE_MATRIX_H
-
-ehgwgdkandkadh
+using namespace std;
